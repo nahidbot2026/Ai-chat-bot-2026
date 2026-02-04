@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Nahid",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -17,8 +17,6 @@
 
   "ADMINBOT": [
     "100090717661986",
-    "61577065350217",
-    "100090717661986"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
